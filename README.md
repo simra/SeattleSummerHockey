@@ -7,8 +7,5 @@ To add an entry, please include Camp Name, Location, Dates, Web site, Age range,
 
 ## Camps
 
-Sno-King full [list of spring/summer camps]().
-
-Sno-King 3v3. 8U/10U.  
-
+Sno-King full [list of spring/summer camps](http://leagueathletics.com/Page.asp?n=57352&org=SNOKINGHOCKEY.COM).
 
